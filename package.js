@@ -17,7 +17,8 @@ Package.onUse(function(api) {
     "vendor/snap.js",
     "vendor/snap.css",
     "vendor/slick.js",
-    "vendor/slick.css"
+    "vendor/slick.css",
+    "vendor/slip.js"
   ], "client");
 
   api.addFiles([
